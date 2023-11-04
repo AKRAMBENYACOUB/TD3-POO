@@ -1,0 +1,3 @@
+exercice 9:
+1/   Coordonnees : < A (car on a un objet p en chair mais on a entrer 60 65 ,c'est pas logique donc les valeur afficher sa va etre de type char donc le ASCII de 60 et 65)
+2/   il faut simplement changer le char par int 
